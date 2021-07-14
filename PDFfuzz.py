@@ -80,6 +80,6 @@ def get_PDFs():
 
 
 fuzz_PDFs()
-print(f"{bcolors.WARNING}\n[Downloading your PDF Files be patience!]{bcolors.RESET}")
+print(f"{bcolors.WARNING}\n[Downloading your PDF Files be patience!\n]{bcolors.RESET}")
 get_PDFs()
 print(f"{bcolors.OK}\n[Done.!!!]\n[Your all PDF Files Downloaded in your Current Directory Folder]{bcolors.RESET}")
