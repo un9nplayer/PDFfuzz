@@ -18,6 +18,7 @@ print ("")
 print (f"{bcolors.JUST}[GIVE THE STAR ON MY GITHUB PAGE,IF YOU LIKE TOOL.]{bcolors.RESET}")
 print (f"{bcolors.JUST}[https://github.com/un9nplayer/PDFfuzz]{bcolors.RESET}")
 print (f"{bcolors.JUST}[Creator : Un9nplayer]{bcolors.RESET}")
+print (f"{bcolors.JUST}[Contribution : Baljit113]{bcolors.RESET}")
 print (f"{bcolors.JUST}[Working : CyberSecurity, Penetration Tester.]{bcolors.RESET}")
 print ("")
 # // Change the url of your Target //
